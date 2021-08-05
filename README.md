@@ -1,7 +1,7 @@
 # CBLN 
 Code for CVPR 2021 paper (coming soon):  
 **Context-aware Biaffine Localizing Network for Temporal Sentence Grounding**  
-[Daizong Liu](https://liudaizong.github.io/HomePage/), Xiaoye Qu, Jianfeng Dong, Pan Zhou, Yu Cheng, Wei Wei, Zichuan Xu, Yulai Xie  
+[Daizong Liu](https://liudaizong.github.io/HomePage/), [Xiaoye Qu](https://cn.linkedin.com/in/%E6%99%93%E6%99%94-xiaoye-qu-%E7%9E%BF-8b9a0a133), [Jianfeng Dong](http://danieljf24.github.io/), [Pan Zhou](https://scholar.google.com/citations?user=cTpFPJgAAAAJ&hl=en), [Yu Cheng](https://sites.google.com/site/chengyu05), [Wei Wei](https://www.eric-weiwei.com/), [Zichuan Xu](https://zichuanxu.com/), [Yulai Xie](http://yulaixie.cn/)  
 CVPR 2021  
 [[paper](https://arxiv.org/pdf/2103.11555.pdf)] [project page]
 
